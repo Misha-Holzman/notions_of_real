@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+.main-nav-container {
+	width: 100%;
+	background-color: #ffffff;
+	background-image: url("https://www.transparenttextures.com/patterns/natural-paper.png");
+}
+.name-container {
+	width: 50%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.first-name {
+  font-family: "Sarina", cursive;
+	font-size: 90px;
+	margin-bottom: 0%;
+	margin-top: 10%;
+	transform: rotate(-12deg);
+}
+.spaceship-img {
+	position: absolute;
+	top: 5%;
+	left: 63.8%;
+	height: 40px;
+	transform: rotate(-4deg);
+}
+.last-name {
+	/* font-family: "Lekton", sans-serif; */
+	/* font-family: "Montserrat", sans-serif; */
+	/* font-family: 'Krona One', sans-serif; */
+	font-family: 'Source Code Pro', monospace;
+	font-size: 25px;
+	margin: -4% 0 0 30%;
+}
+.divider-div-1 {
+	width: 20%;
+	margin: 3% 0 0 0;
+}
+.hr-1 {
+	border: 1px solid black;	
+}
+.job-title {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 20px;
+	margin-top: 2%;
+	font-weight: 200;
+
+}
+.cover-letter-title {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 15px;
+	margin-top: 1%;
+	margin-bottom: 0%;
+	font-weight: 200;
+}
+
+
+.text-body-container {
+	width: 75%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.text-body-parag {
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: 200;
+}
