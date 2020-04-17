@@ -7,7 +7,8 @@ class Monochrome extends Component {
     return (
       <div className='monochrome-container' id='monochrome'>
         <ul className='monochrome-list-container'>
-          <li className='monochrome-list-item-1'><img className='monochrome-img' src='https://i.imgur.com/OWHcHoJ.jpg' /></li>
+          <li className='monochrome-list-item-1'><img className='monochrome-img' src='https://i.imgur.com/sTRi8Ba.jpg' /></li>
+          <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/OWHcHoJ.jpg' /></li>
           <ScrollTop
             text='^ top'
             distance={500}
@@ -19,7 +20,6 @@ class Monochrome extends Component {
             target={0}
           />
           <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/H6iE0bu.jpg' /></li>
-          <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/sTRi8Ba.jpg' /></li>
           <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/FL08oHH.png' /></li>
           <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/Jb0VIGk.jpg' /></li>
           <li className='monochrome-list-item'><img className='monochrome-img' src='https://i.imgur.com/eZbUutO.jpg' /></li>
