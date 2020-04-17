@@ -1,13 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Repository for Notions of Real
-
 ### Misha Holzman's Photography Portfolio Website
 
-Created using:
 
-– ReactJS
-– HTML
-– CSS
-– JavaScript
-– Adobe Photoshop
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Technology used:
+<ul>
+  <li>ReactJS</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Adobe Photoshop</li>
+</ul>
