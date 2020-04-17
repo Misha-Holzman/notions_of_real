@@ -65,13 +65,13 @@
 
 
 
-
+/* 
 .nav-title-span-1 {
 
 }
 .nav-title-span-2 {
 	
-}
+} */
 #my-name {
 	margin: 0 auto;
 	width: 100%;
@@ -90,7 +90,9 @@
 	color: black;
 	/* font-family: 'Amatic SC', cursive; */
   font-family: 'Reenie Beanie', cursive;
-	color: #f53c03;
+	/* color: #f53c03; */
+	color: #ec413e;
+
 	letter-spacing: 1px;
 	font-weight: 200;
 	text-align: center;

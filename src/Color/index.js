@@ -1,5 +1,6 @@
 
 import React, { Component } from 'react'
+import ScrollTop from 'react-scrolltop-button'
 import './style.css'
 
 class Color extends Component {
@@ -8,6 +9,16 @@ class Color extends Component {
       <div className='color-container' id='color'>
         <ul className='color-list-container'>
           <li className='color-list-item-1'><img className='color-img' src='https://i.imgur.com/jo4NG5o.jpg' /></li>
+          <ScrollTop
+            text='^ top'
+            distance={500}
+            breakpoint={768}
+            style={{ }}
+            className='scroll-your-role'
+            id='scroll-your-role-id'
+            speed={600}
+            target={0}
+          />
           <li className='color-list-item'><img className='color-img' src='https://i.imgur.com/5e0e7m3.jpg' /></li>
           <li className='color-list-item'><img className='color-img' src='https://i.imgur.com/1D81iAj.jpg' /></li>
           <li className='color-list-item'><img className='color-img' src='https://i.imgur.com/BuiyQBC.jpg' /></li>
@@ -23,6 +34,7 @@ class Color extends Component {
           <li className='color-list-item'><img className='color-img' src='https://i.imgur.com/5YhddTq.jpg' /></li>
           <li className='color-list-item'><img className='color-img' src='https://i.imgur.com/SujR5rA.jpg' /></li>
         </ul>
+        
       </div>
     )
   }

@@ -43,3 +43,38 @@
   -moz-box-shadow: 0px 0px 10px -1px rgba(0,0,0,0.38);
   box-shadow: 0px 0px 10px -1px rgba(0,0,0,0.38);
 }
+
+#scroll-your-role-id {
+  background-color: #ffffff00;
+  font-family: 'Reenie Beanie', cursive;
+  border-radius: 100%; 
+  width: 50px;
+  padding: 12px 12px 12px 12px;
+  font-size: 30px;
+  font-weight: 400;
+  border: 0px solid black;
+}
+
+#scroll-your-role-id:hover {
+  background-color: #ffffff00;
+  font-family: 'Reenie Beanie', cursive;
+  border-radius: 100%; 
+  width: 50px;
+  padding: 12px 12px 12px 12px;
+  font-size: 30px;
+  font-weight: 400;
+  color: #ec413e;
+  border: 0px solid black;
+}
+
+#scroll-your-role:hover {
+  background-color: #ffffff00;
+  font-family: 'Reenie Beanie', cursive;
+  border-radius: 100%; 
+  width: 50px;
+  padding: 12px 12px 12px 12px;
+  font-size: 30px;
+  font-weight: 400;
+  color: #ec413e;
+  border: 0px solid black;
+}
