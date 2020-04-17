@@ -1,6 +1,6 @@
 
 ## Repository for Notions of Real
-### Misha Holzman's Photography Portfolio Website
+### Photography Portfolio Website
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
