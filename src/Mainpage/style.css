@@ -1,0 +1,27 @@
+
+.mainpage-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 2%;
+}
+
+.mainpage-cover-img {
+  height: 500px;
+  -webkit-box-shadow: 0px 0px 10px -1px rgba(0,0,0,0.38);
+  -moz-box-shadow: 0px 0px 10px -1px rgba(0,0,0,0.38);
+  box-shadow: 0px 0px 10px -1px rgba(0,0,0,0.38);
+}
+
+.mainpage-cover-img-text {
+  position: absolute;
+  top: 430px;
+  left: 30%;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+  font-weight: 200;
+  /* transform: rotate(-9deg); */
+  color: white;
+}
