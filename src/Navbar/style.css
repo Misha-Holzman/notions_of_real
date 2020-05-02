@@ -39,10 +39,10 @@
 }
 .nav-text-links {
   text-decoration: none;
-  color: black;
-  font-size: 22px;
+  /* color: black; */
+  font-size: 19px;
 	font-family: 'Poiret One', cursive;
-	font-weight: 400;
+	font-weight: 600;
 	color: #1b8798;
 }
 

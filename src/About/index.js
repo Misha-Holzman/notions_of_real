@@ -13,10 +13,12 @@ class About extends Component {
         <div className='about-text-div'>
           <h1 className='about-text-name-1'>Misha Holzman</h1>
           {/* <h1 className='about-text-name-2'>Street Photographer</h1> */}
-          <p className='about-text'>Lorem ipsum odor amet, consectetuer adipiscing elit. Ac purus in massa egestas mollis varius;
-              dignissim elementum. Mollis tincidunt mattis hendrerit dolor eros enim, nisi ligula ornare.
-              Hendrerit parturient habitant pharetra rutrum gravida porttitor eros feugiat. Mollis elit
-              sodales taciti duis praesent id. Consequat urna vitae morbi nunc congue.
+          <p className='about-text'>I grew up and live in NYC where shapes, colors,
+            and light are abundant and complex. I look for color and shapes that clash
+            well and dance with each other. I try to find the edge between abstraction
+            and realism, a notion of what we usually see and understand, and let the
+            shapes and color within the frame have as much of a voice as the objects
+            you might recognize.
           </p>
         </div>
       </div>
